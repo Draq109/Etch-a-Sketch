@@ -13,12 +13,14 @@ body {
     background-color: black;
 }
 .container {
+    margin-top: 1rem;
     display: flex;
     height: 32rem;
     width: 32rem;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    box-shadow: 0px 0px 15px 5px #0ff
 }
 
 @keyframes color-change-bg{
