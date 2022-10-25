@@ -1,0 +1,22 @@
+header {
+    text-align: center;
+    font-size: 100%;
+}
+body {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    height: 32rem;
+    width: 32rem;
+    border: solid red;
+    border-radius: .75rem;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
